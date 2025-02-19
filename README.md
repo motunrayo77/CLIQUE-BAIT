@@ -11,7 +11,8 @@ This project is based on Case Study #6: Data Mart from the 8-Week SQL Challenge.
 The dataset consists of five tables:
 The dataset provided in this case study is a Customer visits are logged in this events table at a cookie_id level and the event_type and page_id values can be used to join onto relevant satellite tables to obtain further information about each event.
 
-The five tables are 
+The five tables are:
+
 --The users table contains: user_id, cookie_id, start_date
 --The Events table contains: visit_id, cookie_id, page_id, event_type, sequence_number, event_time
 --The Event identifier table contains: event_type, event_name
