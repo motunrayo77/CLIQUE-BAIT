@@ -14,9 +14,13 @@ The dataset provided in this case study is a Customer visits are logged in this 
 The five tables are:
 
 --The users table contains: user_id, cookie_id, start_date
+
 --The Events table contains: visit_id, cookie_id, page_id, event_type, sequence_number, event_time
+
 --The Event identifier table contains: event_type, event_name
+
 --The campaign identifier table contains: campaign_id, products, campaign_name, start_date
+
 --The page hierarchy table contains: page_id, page_name, product_category, product_id
 
 
@@ -52,13 +56,21 @@ In other to help Danny solve this problem using data, there are questions that n
 
 
 ✅ How many users are there?	
+
 ✅ How many cookies does each user have on average? 
+
 ✅ What is the unique number of visits by all users per month?
+
 ✅ What is the number of events for each event type?
+
 ✅ What is the percentage of visits which have a purchase event?
+
 ✅ What is the percentage of visits which view the checkout page but do not have a purchase event?
+
 ✅ What are the top 3 pages by number of views?
+
 ✅ What is the number of views and cart adds for each product category? 
+
 ✅ What are the top 3 products by purchases?
 
 
