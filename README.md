@@ -29,7 +29,9 @@ The five tables are:
 For further details on the business context and requirements, please visit the [Case Study 6 webpage](https://8weeksqlchallenge.com/case-study-6/).
 
 ✔ The product and the category that are most ordered by customers
+
 ✔ The customers behaviors on the website of the company Clique bait
+
 ✔ The frequency of visit using the cookie_id from the website e.t.c
 
 🛠 Tech Stack Used
@@ -40,6 +42,7 @@ SQL (PostgreSQL) – Data analysis and aggregation
 📌 Key Analysis Performed
 
 ✅ Total and Percentage of visit by purchase
+
 ✅ Digital analysis of the 
 
 
