@@ -1,9 +1,9 @@
-📊 8 Week SQL Challenge: Case Study 6
+📊 Case Study 6
 CLIQUE BAIT COMPANY
 
 📌 About the Dataset
 
-This project is based on Case Study #6: Data Mart from the 8-Week SQL Challenge. The dataset belongs to CLIQUE BAIT, an online seafood store. This project addresses a real-world business scenario using advanced SQL techniques.
+This project is based on  Data Mart. The dataset belongs to CLIQUE BAIT, an online seafood store. This project addresses a real-world business scenario using advanced SQL techniques.
 
 
 🗂 Dataset Overview & Description
@@ -80,3 +80,4 @@ In other to help Danny solve this problem using data, there are questions that n
 
 📢 Acknowledgment
 Thanks to Danny Ma for curating the SQL Challenge.
+
